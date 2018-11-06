@@ -2,9 +2,9 @@
 
 ## 2018.11.06 start
 
-### Vue.JS 
+### vue.js 
 
-### Javascript 
+### javascript 
 
 ### css3
 
