@@ -1,6 +1,6 @@
-#Today I Learned
+# Today I Learned
 
-##2018.11.06 start
+## 2018.11.06 start
 
 ### Vue.JS 
 
